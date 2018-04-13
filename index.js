@@ -11,8 +11,8 @@
 
 // Write a function named add that takes
 // two numbers and returns their sum
-function add() {
-  return ''
+function add(num) {
+  return num + num
 }
 
 // Write a function named double that takes
